@@ -6,10 +6,7 @@
 
     <div style="background-image: url('../Images/bg.jpg'); width: 100%; height: 720px; background-repeat: no-repeat; background-size: cover; background-attachment: fixed;">
         <div class="container pt-4 pb-3">
-            <%--<div>
-                <asp:Label ID="lblMsg" runat="server"></asp:Label>
-            </div>--%>
-
+           
             <div class="btn-toolbar justify-content-between mb-3 ">
                 <div class="btn-group">
                   <asp:Label ID="lblMsg" runat="server"></asp:Label>

@@ -114,7 +114,7 @@
 
                     </ul>
                     <div class="logout_btn">
-                        <%--<asp:LinkButton ID="btnLogOut" runat="server" CausesValidation="false">Logout</asp:LinkButton>--%>
+                     
                         <asp:HyperLink ID="btnLogOut" runat="server" NavigateUrl="~/User/Login.aspx">Logout</asp:HyperLink>
                     </div>
 

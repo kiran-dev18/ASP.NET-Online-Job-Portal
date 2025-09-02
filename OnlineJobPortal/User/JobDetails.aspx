@@ -73,10 +73,7 @@
                                         </div>
                                         <ul>
                                             <li><%# Eval("Specialization") %></li>
-                                            <%--<li>Mobile Applicationin iOS/Android/Tizen or other platform</li>
-                                            <li>Research and code , libraries, APIs and frameworks</li>
-                                            <li>Strong knowledge on software development life cycle</li>
-                                            <li>Strong problem solving and debugging skills</li>--%>
+                                           
                                         </ul>
                                     </div>
                                     <div class="post-details2  mb-50">
@@ -87,9 +84,7 @@
                                         <ul>
                                             <li> <%# Eval("Qualification") %></li>
                                             <li> <%# Eval("Experience") %></li>
-                                           <%-- <li>Ecommerce website design experience</li>
-                                            <li>Familiarity with mobile and web apps preferred</li>
-                                            <li>Experience using Invision a plus</li>--%>
+                                          
                                         </ul>
                                     </div>
                                 </div>

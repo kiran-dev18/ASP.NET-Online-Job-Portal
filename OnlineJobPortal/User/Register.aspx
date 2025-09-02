@@ -82,16 +82,7 @@
                                 </div>
                             </div>
 
-                            <%--<div class="col-12">
-                        <div class="form-group">
-                            <label>Country</label>
-                              <asp:DropDownList ID="ddlCountry" runat="server" OnSelectedIndexChanged="ddlCountry_SelectedIndexChanged" CssClass="form-control w-100" AppendDataBoundItems="True" DataTextField="CountryName" DataValueField="CountryName" DataSourceID="SqlDataSource1">
-                                  <asp:ListItem Value="0">Select Country</asp:ListItem>
-                            </asp:DropDownList>
-                              <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Country is required" ForeColor="Red" Display="Dynamic" SetFocusOnError="true" Font-Size="Small" InitialValue="0" ControlToValidate="ddlCountry"></asp:RequiredFieldValidator>
-                              <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:cs %>" SelectCommand="SELECT [CountryName] FROM [Country]"  ></asp:SqlDataSource>
-                        </div>
-                 </div>--%>
+                         
                         </div>
                         <div class="form-group mt-3">
 
